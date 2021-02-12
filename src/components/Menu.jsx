@@ -4,7 +4,7 @@ const Menu = () => {
     return (
         <div className="menu">
             <div className="container">
-                <div className="menu__text">
+                <div className="menu__text row">
                     <div className="col-6">
 
                         <div className="menu__img">
